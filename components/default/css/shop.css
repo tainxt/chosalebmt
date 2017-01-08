@@ -1,0 +1,141 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 23, 2016, 8:56:08 AM
+    Author     : Pea Angel
+*/
+
+*{
+    border-radius: 0 !important;
+}
+
+#wrapper {
+    background: #e9ebee;
+}
+
+.header-line {
+    height: 50px;
+    background: #0099cc;
+}
+
+.header-line a {
+    color: #fff;
+}
+
+.header-line .open a {
+    color: #333;
+}
+
+.header-line a:hover {
+    color: #333;
+}
+
+.my-avatar {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 30px;
+    bottom: -10px;
+    border: 4px solid #fff;
+}
+
+#shop-slider img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    object-position: 50%;
+}
+
+
+.box {
+    position: relative;
+    border-radius: 3px;
+    background: #ffffff;
+    border-top: 3px solid #d2d6de;
+    margin-bottom: 20px;
+    width: 100%;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+    float: left;
+}
+
+.box-header {
+    color: #444;
+    display: block;
+    padding: 10px;
+    position: relative;
+    width: 100%;
+    float: left;
+}
+
+.box-body {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    padding: 10px;
+    width: 100%;
+    float: left;
+}
+
+.box-footer {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-top: 1px solid #f4f4f4;
+    padding: 10px;
+    background-color: #fff;
+    width: 100%;
+    float: left;
+}
+
+.box-products {
+    margin-top: 20px;
+}
+
+.box-products .panel {
+    border: none;
+    margin-top: 0 !important;
+}
+
+.label-categories {
+    border-top: 3px solid #d2d6de;
+    background: #0099cc;
+    font-weight: bold;
+    color: #fff;
+}
+
+.list-group-item {
+    padding: 6px 15px;
+    border: none;
+    border-bottom: 1px solid #ddd;
+
+}
+
+.info-shop .list-group-item {
+
+    border: 1px dotted rgba(211, 211, 211, 0.5);
+}
+
+.protect-shop {
+    color: red;
+}
+
+#owl-discount .item img{
+    display: block;
+    width: 100%;
+    height: 150px;
+}
+
+.myshop-name {
+    width: auto;
+    position: absolute;
+    left: 200px;
+    bottom: 20px;
+    color: #fff;
+    font-size: 24px;
+    text-shadow: 2px 1px #0066ff;
+}

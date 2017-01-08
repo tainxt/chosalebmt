@@ -1,0 +1,205 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 28, 2016, 1:03:03 PM
+    Author     : Pea Angel
+*/
+
+* {
+    transition: .5s;
+}
+
+.reset-filter{
+    margin-top: 5px;
+}
+
+.margin-0-auto {
+    margin: auto;
+    float: none;
+}
+
+.box-body {
+    padding: 0px;
+    margin-top: 10px;
+}
+
+.advanced-btns {
+    display: none;
+}
+
+.advanced-btns > .dropdown {
+    padding: 0;
+}
+
+.text-bold {
+    font-weight: bold !important;
+}
+
+.advanced-btns {
+    margin-top: 5px;
+}
+
+.box-filter .panel-body, .tainxt, .categories-col-left {
+    transition: 0s;
+}
+
+.box-filter {
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.clickable{
+    cursor: pointer;   
+}
+
+.box-filter .panel-heading span {
+    margin-top: -20px;
+    font-size: 15px;
+}
+
+
+.thumbnail {
+    border: none;
+    margin-bottom: 5px;
+    padding: 0;
+}
+
+.box-product-image {
+    padding: 0;
+}
+
+.thumbnail img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+}
+
+.caption {
+    padding: 0px 0px 5px 0px;
+}
+
+.list-caption {
+    padding-left: 15px;
+}
+
+.border-product {
+    border: 1px solid rgba(221, 221, 221, 0.3);
+    margin-bottom: 15px;
+    width: 100%;
+    float: left;
+    padding: 4px;
+}
+
+.list-group-image {
+    width: 100%;
+}
+
+.product-name {
+    float: left;
+    width: 100%;
+    
+}
+
+.product-price {
+    margin-bottom: 0px;
+}
+
+.poster {
+    color: #999;
+    font-size: 11px;
+}
+
+.product-ads {
+    margin-left: 0px;
+}
+
+.product-time {
+    border-top: 1px solid rgba(221, 221, 221, 0.3);
+    padding: 5px 10px;
+}
+
+.btn-show-all-cat {
+    display: block !important;
+}
+
+.collapse-product {
+    margin: 0px 10px;
+    cursor: pointer;
+    color: #000;
+}
+
+.pagination {
+    margin: 10px 15px;
+}
+
+.refresh-button {
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.col-product-ads {
+    float: right;
+}
+
+.breadcrumb {
+    margin-bottom: 0;
+}
+
+.box-header {
+    padding-bottom: 0px;
+}
+
+@media (max-width: 992px){
+
+    .no-margin-left-sm {
+        margin-left: -15px;
+    }
+
+    .col-product-ads {
+        float: initial;
+    }
+}
+
+@media (max-width: 767px){
+    .btn-show-all-cat {
+        display: none!important;
+    }
+
+    .no-margin-left-sm {
+        margin-left: -15px;
+    }
+}
+
+.quick-jump {
+    float: left;
+}
+
+.quick-jump .dropdown-menu {
+    min-width: 200px;
+}
+
+.categories-col-left {
+    display: none;
+}
+
+.effect-parent {
+    -webkit-perspective: 1300px;
+    -moz-perspective: 1300px;
+    perspective: 1300px;
+}
+
+
+/* CSS Drop menu */
+.box-collapse-menu > .row {
+    position: relative;
+}
+
+.box-collapse-menu .categories-col-left {
+    position: absolute;
+    z-index: 1050;
+    top: -10px;
+    margin-top: 0;
+}

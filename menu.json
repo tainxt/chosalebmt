@@ -1,0 +1,316 @@
+[{
+        "name": "Điện thoại",
+        "url": "dien-thoai",
+        "parent_id": "0",
+        "id": "2"
+    }, {
+        "name": "Hãng điện thoại",
+        "url": "hang-dien-thoai",
+        "parent_id": "2",
+        "id": "4"
+    }, {
+        "name": "Apple",
+        "url": "apple",
+        "parent_id": "4",
+        "id": "5"
+    }, {
+        "name": "Samsung",
+        "url": "samsung",
+        "parent_id": "4",
+        "id": "6"
+    }, {
+        "name": "Asus",
+        "url": "asus",
+        "parent_id": "4",
+        "id": "7"
+    }, {
+        "name": "HTC",
+        "url": "htc",
+        "parent_id": "4",
+        "id": "40"
+    }, {
+        "name": "Oppo",
+        "url": "oppo",
+        "parent_id": "4",
+        "id": "41"
+    }, {
+        "name": "Nokia",
+        "url": "nokia",
+        "parent_id": "4",
+        "id": "42"
+    }, {
+        "name": "Lenovo",
+        "url": "dien-thoai-lenovo",
+        "parent_id": "4",
+        "id": "43"
+    }, {
+        "name": "BlackBerry",
+        "url": "dien-thoai-blackberry",
+        "parent_id": "4",
+        "id": "44"
+    }, {
+        "name": "Phụ kiện điện thoại",
+        "url": "phu-kien-dien-thoai",
+        "parent_id": "2",
+        "id": "45"
+    }, {
+        "name": "Ốp lưng - Bao da",
+        "url": "op-lung-bao-da",
+        "parent_id": "45",
+        "id": "46"
+    }, {
+        "name": "Miếng dán màn hình",
+        "url": "mieng-dan-man-hinh",
+        "parent_id": "45",
+        "id": "47"
+    }, {
+        "name": "Gậy Selfie",
+        "url": "gay-selfie",
+        "parent_id": "45",
+        "id": "48"
+    }, {
+        "name": "Pin - Pin dự phòng",
+        "url": "pin-pin-du-phong",
+        "parent_id": "45",
+        "id": "49"
+    }, {
+        "name": "Củ sạc - Dây cáp",
+        "url": "cu-sac-day-cap",
+        "parent_id": "45",
+        "id": "50"
+    }, {
+        "name": "Thẻ nhớ",
+        "url": "the-nho",
+        "parent_id": "45",
+        "id": "51"
+    }, {
+        "name": "Sạc không dây",
+        "url": "sac-khong-day",
+        "parent_id": "45",
+        "id": "52"
+    }, {
+        "name": "Loại khác",
+        "url": "dien-thoai-loai-khac",
+        "parent_id": "2",
+        "id": "53"
+    }, {
+        "name": "Điện thoại chữa cháy",
+        "url": "dien-thoai-chua-chay",
+        "parent_id": "53",
+        "id": "54"
+    }, {
+        "name": "Điện thoại trả góp",
+        "url": "dien-thoai-tra-gop",
+        "parent_id": "53",
+        "id": "55"
+    }, {
+        "name": "Điện thoại thanh lý",
+        "url": "dien-thoai-thanh-ly",
+        "parent_id": "53",
+        "id": "56"
+    }, {
+        "name": "Máy tính, Linh kiện",
+        "url": "may-tinh",
+        "parent_id": "0",
+        "id": "3"
+    }, {
+        "name": "Linh kiện máy tính",
+        "url": "linh-kien-may-tinh",
+        "parent_id": "3",
+        "id": "29"
+    }, {
+        "name": "VGA",
+        "url": "vga",
+        "parent_id": "29",
+        "id": "30"
+    }, {
+        "name": "MAINBOARD",
+        "url": "mainboard",
+        "parent_id": "29",
+        "id": "31"
+    }, {
+        "name": "CPU",
+        "url": "cpu",
+        "parent_id": "29",
+        "id": "32"
+    }, {
+        "name": "RAM",
+        "url": "ram",
+        "parent_id": "29",
+        "id": "33"
+    }, {
+        "name": "Nguồn máy tính",
+        "url": "nguon-may-tinh",
+        "parent_id": "29",
+        "id": "34"
+    }, {
+        "name": "Tản nhiệt",
+        "url": "tan-nhiet",
+        "parent_id": "29",
+        "id": "35"
+    }, {
+        "name": "HDD - SSD",
+        "url": "hdd-ssd",
+        "parent_id": "29",
+        "id": "36"
+    }, {
+        "name": "Case - Vỏ máy",
+        "url": "case-vo-may",
+        "parent_id": "29",
+        "id": "37"
+    }, {
+        "name": "ODD (DVD)",
+        "url": "odd-dvd",
+        "parent_id": "29",
+        "id": "38"
+    }, {
+        "name": "Màn hình LED",
+        "url": "man-hinh-led",
+        "parent_id": "29",
+        "id": "39"
+    }, {
+        "name": "Laptop",
+        "url": "laptop",
+        "parent_id": "3",
+        "id": "9"
+    }, {
+        "name": "Apple",
+        "url": "apple",
+        "parent_id": "9",
+        "id": "10"
+    }, {
+        "name": "Asus",
+        "url": "asus",
+        "parent_id": "9",
+        "id": "11"
+    }, {
+        "name": "Dell",
+        "url": "dell",
+        "parent_id": "9",
+        "id": "12"
+    }, {
+        "name": "HP",
+        "url": "laptop-hp",
+        "parent_id": "9",
+        "id": "13"
+    }, {
+        "name": "Sony",
+        "url": "laptop-sony",
+        "parent_id": "9",
+        "id": "14"
+    }, {
+        "name": "Acer",
+        "url": "laptop-acer",
+        "parent_id": "9",
+        "id": "15"
+    }, {
+        "name": "Lenovo",
+        "url": "laptop-lenovo",
+        "parent_id": "9",
+        "id": "16"
+    }, {
+        "name": "Máy bộ PC",
+        "url": "may-bo-pc",
+        "parent_id": "3",
+        "id": "17"
+    }, {
+        "name": "Máy văn phòng",
+        "url": "may-van-phong",
+        "parent_id": "17",
+        "id": "18"
+    }, {
+        "name": "Máy chơi game",
+        "url": "may-choi-game",
+        "parent_id": "17",
+        "id": "19"
+    }, {
+        "name": "DestNote",
+        "url": "destnote",
+        "parent_id": "17",
+        "id": "20"
+    }, {
+        "name": "Phụ kiện máy tính",
+        "url": "phu-kien-may-tinh",
+        "parent_id": "3",
+        "id": "21"
+    }, {
+        "name": "Chuột máy tính",
+        "url": "chuot-may-tinh",
+        "parent_id": "21",
+        "id": "22"
+    }, {
+        "name": "Bàn phím",
+        "url": "ban-phim",
+        "parent_id": "21",
+        "id": "23"
+    }, {
+        "name": "Loa máy tính",
+        "url": "loa-may-tinh",
+        "parent_id": "21",
+        "id": "24"
+    }, {
+        "name": "USB",
+        "url": "usb",
+        "parent_id": "21",
+        "id": "25"
+    }, {
+        "name": "Bàn ghế",
+        "url": "ban-ghe-may-tinh",
+        "parent_id": "21",
+        "id": "26"
+    }, {
+        "name": "Webcam - Headphone",
+        "url": "webcam-headphone",
+        "parent_id": "21",
+        "id": "27"
+    }, {
+        "name": "Dụng cụ vệ sinh",
+        "url": "dung-cu-ve-sinh",
+        "parent_id": "21",
+        "id": "28"
+    }, {
+        "name": "ODD (DVD)",
+        "url": "odd-dvd",
+        "parent_id": "0",
+        "id": "38"
+    }, {
+        "name": "Case - Vỏ máy",
+        "url": "case-vo-may",
+        "parent_id": "0",
+        "id": "37"
+    }, {
+        "name": "HDD - SSD",
+        "url": "hdd-ssd",
+        "parent_id": "0",
+        "id": "36"
+    }, {
+        "name": "Tản nhiệt",
+        "url": "tan-nhiet",
+        "parent_id": "0",
+        "id": "35"
+    }, {
+        "name": "Nguồn máy tính",
+        "url": "nguon-may-tinh",
+        "parent_id": "0",
+        "id": "34"
+    }, {
+        "name": "RAM",
+        "url": "ram",
+        "parent_id": "0",
+        "id": "33"
+    }, {
+        "name": "CPU",
+        "url": "cpu",
+        "parent_id": "0",
+        "id": "32"
+    }, {
+        "name": "MAINBOARD",
+        "url": "mainboard",
+        "parent_id": "0",
+        "id": "31"
+    }, {
+        "name": "VGA",
+        "url": "vga",
+        "parent_id": "0",
+        "id": "30"
+    }]

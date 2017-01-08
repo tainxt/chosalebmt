@@ -1,0 +1,259 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 19, 2016, 8:45:41 PM
+    Author     : Pea Angel
+*/
+
+.detail-product {
+    background: #fff;
+}
+
+.view-rank {
+    width: 100%;
+    float: left;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+.view-rank span {
+    float: left;
+    color: #999;
+    font-size: 13px;
+}
+
+.view-rank .product-rate {
+    float: left;
+}
+
+.box-product-price {
+    width: 100%;
+    float: left;
+    background: url("imgs/bg_price.png") repeat-x;
+    padding-left: 15px;
+}
+
+.product-price  {
+    min-width: 45%;
+    font-size: 18px;
+    text-decoration: line-through;
+    float: left;
+    min-height: 30px;
+}
+
+.percent-discount {
+    min-width: 30%;
+    min-height: 30px;
+    float: left;
+    margin-top: 5px;
+    line-height: 30px;
+    padding-left: 15px;
+    color: #999;
+    font-style: italic;
+}
+
+.product-discount {
+    min-width: 45%;
+    min-height: 45px;
+    font-size: 24px;
+    color: red;
+    border: 2px solid red;
+    float: left;
+    padding-right: 15px;
+    line-height: 41px;
+}
+
+.product-discount span {
+    background: red;
+    color: #fff;
+    height: 41px;
+    float: left;
+    line-height: 41px;
+    font-size: 18px;
+    padding: 0px 10px;
+}
+
+.saving-money {
+    min-width: 30%;
+    min-height: 45px;
+    float: left;
+    line-height: 41px;
+    padding-left: 15px;
+}
+
+.saving-money span {
+    color: red;
+    font-weight: 600;
+}
+
+.box-footer .nav-tabs {
+    margin-bottom: 0px;
+}
+
+.box-footer .tab-content {
+    border: 1px solid #ddd;
+    border-top: none;
+    padding: 15px;
+}
+
+#detail-product h2 {
+    margin-top: 0px;
+}
+
+#detail-product h2 span {
+    font-size: 16px;
+    font-style: italic;
+    color: #a0a0a0;
+}
+
+#detail-product hr {
+    float: left;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.box-add-product {
+    margin-top: 10px;
+}
+
+.box-add-product label {
+    float: left;
+    min-height: 34px;
+    line-height: 34px;
+}
+
+
+
+.select-qty {
+    float: left;
+    width: 150px;
+    margin-left: 20px;
+}
+
+.product-qty {
+    position: absolute;
+    right: -25px;
+    top: 0px;
+    font-size: 20px;
+}
+
+.tool-box {
+    width: 100%;
+    float: left;
+    margin-top: 20px;
+}
+
+.tool-box button {
+    margin-bottom: 10px;
+}
+
+.tool-box p {
+    width: 100%;
+    float: left;
+    margin: 0;
+}
+
+.tool-box p label {
+    min-height: 20px;
+    line-height: 20px;
+    margin-bottom: 0;
+}
+
+.list-tag {
+    min-height: 20px;
+    line-height: 20px;
+    margin-left: 15px;
+}
+
+.overlay-count-hide-img {
+    width: 100%;
+    height: 100%;
+    background: rgba(51, 51, 51, 0.5);
+    position: absolute;
+    left: 0;
+    top: 0;
+    text-align: center;
+    font-size: 30px;
+    color: #fff;
+    font-weight: bold;
+    line-height: 100px;
+}
+
+.poster-info label {
+    min-width: 130px;
+}
+
+.product-rate .voted {
+    color: red;
+}
+
+.product-rate .unvoted {
+    color: black;
+}
+
+.report-product {
+    margin-top: 10px;
+}
+
+.btn-show-all-cat {
+    display: block !important;
+}
+
+@media (max-width: 767px){
+    .btn-show-all-cat {
+        display: none!important;
+    }
+}
+
+
+.categories-col-left {
+    display: none;
+}
+
+.effect-parent {
+    -webkit-perspective: 1300px;
+    -moz-perspective: 1300px;
+    perspective: 1300px;
+}
+
+.Collage{
+
+    /*This is where you set the padding you want between the images*/
+    padding:5px;
+
+}
+.Collage img{
+    margin:0;
+    padding:0;
+    display:inline-block;
+    vertical-align:bottom;
+    opacity:1;
+    cursor: pointer;
+}
+
+
+/* In this example, this is the main item being resized */
+.Image_Wrapper{
+    /* to get the fade in effect, set opacity to 0 on the first element within the gallery area */
+    opacity:0;
+    -moz-box-shadow:0px 2px 4px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow:0px 2px 4px rgba(0, 0, 0, 0.1);
+    box-shadow:0px 2px 4px rgba(0, 0, 0, 0.1);
+    position: relative;
+}
+
+/* CSS Drop menu */
+.box-collapse-menu > .row {
+    position: relative;
+}
+
+.box-collapse-menu .categories-col-left {
+    position: absolute;
+    z-index: 1050;
+    top: -10px;
+    margin-top: 0;
+}
